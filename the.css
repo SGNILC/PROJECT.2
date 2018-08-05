@@ -1,0 +1,169 @@
+        body {
+          color: white;
+          text-align: center;
+          background-position: center; 
+    }
+        ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: black;
+    }
+        li {
+          float: left;
+    }
+        li a {
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+    }
+
+        li a:hover {
+          background-color: #111;
+    }
+        .active {
+          background-color: grey;
+          color: white;
+        }
+        .active1 {
+          background-color: white;
+        }
+            
+        hr{
+          color: white;
+        }
+        .footer {
+          left: 0;
+          bottom: 0;
+          width: 100%;
+          height: 10%;
+          background-color: black;
+          color: red;
+          text-align: center;
+    }
+        .header {
+          left: 0;
+          bottom: 0;
+          width: 100%;
+          height: 6%;
+          background-color: black;
+          color: white;
+          text-align: center;
+    }
+    table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
+    th, td {
+    padding: 5px;
+    text-align: left;
+    }
+          body {
+          color: white;
+          text-align: center;
+          background-position: center; 
+          font-size: 14px;
+    }
+        ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: black;
+    }
+        li {
+          float: left;
+    }
+        li a {
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+    }
+
+        li a:hover {
+          background-color: #111;
+    }
+        .footer {
+          left: 0;
+          bottom: 0;
+          width: 100%;
+          height: 10%;
+          background-color: black;
+          color: white;
+          text-align: center;
+    }
+        .header {
+          left: 0;
+          bottom: 0;
+          width: 100%;
+          height: 6%;
+          background-color: black;
+          color: white;
+          text-align: center;
+    }
+        .active {
+          background-color: grey;
+          color: white;
+        }
+        .active1 {
+          background-color: white;
+        }
+        hr{
+          color: white;
+        }
+        table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    text-align: center; 
+    border-color: black;
+    }
+    th, td {
+    padding: 10px;
+    text-align: center;
+    }
+    .gowon {color: #98ff98;}
+    .heejin {color: 	#FFA6C9;}
+    .hyun {color:yellow;}
+    .ha {color:	#013220;}
+    .yeo {color:orange;}
+    .VI {color:#ffb6c1;}
+    .Kim {color: 	crimson;}
+    .Jin {color: blue;}
+    .Cho {color: purple;}
+    .Yv {color:#800020;}
+    .chu {color:#ffdab9;}
+    .unit {color: black;}
+    .oh {color:silver;}
+            .fa-facebook-square {
+                background: #3b5998;
+                color: white;
+                display: block
+}
+            .fa-instagram {
+                background: linear-gradient(orange, red, purple);
+                color: white;
+}
+            .fa-twitter {
+                background: #55ACEE;
+                color: white;
+                text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+            .fa-youtube {
+                background: red;
+                color: white;
+}
+            .fa {
+                padding: 15px;
+                font-size: 30px;
+                text-align: center;
+                text-decoration: none;
+                margin: 5px 5px;
+}
+            .fa:hover {
+                opacity: 0.7;
+}
