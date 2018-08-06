@@ -1,4 +1,10 @@
-        ul {
+              body {
+          color: white;
+          text-align: center;
+          background-position: center; 
+          font-size: 14px;
+    }    
+ul {
           list-style-type: none;
           margin: 0;
           padding: 0;
@@ -38,12 +44,6 @@
     th, td {
     padding: 5px;
     text-align: left;
-    }
-          body {
-          color: white;
-          text-align: center;
-          background-position: center; 
-          font-size: 14px;
     }
         .footer {
           left: 0;
