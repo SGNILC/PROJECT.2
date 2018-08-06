@@ -13,11 +13,11 @@
         li {
           float: left;
     }
-        li a {
+        li, a {
           display: block;
           color: white;
           text-align: center;
-          padding: 14px 16px;
+          padding: 14px 65px;
           text-decoration: none;
     }
 
@@ -84,9 +84,16 @@
           padding: 14px 16px;
           text-decoration: none;
     }
-
+        li a {
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+    }
         li a:hover {
           background-color: #111;
+          color:white;
     }
         .footer {
           left: 0;
@@ -106,7 +113,7 @@
           color: white;
           text-align: center;
     }
-        .active {
+        .yep {
           background-color: grey;
           color: white;
         }
@@ -132,7 +139,7 @@
     .ha {color:	#013220;}
     .yeo {color:orange;}
     .VI {color:#ffb6c1;}
-    .Kim {color: 	crimson;}
+    .kim {color: 	crimson;}
     .Jin {color: blue;}
     .Cho {color: purple;}
     .Yv {color:#800020;}
@@ -166,8 +173,14 @@
 }
             .fa:hover {
                 opacity: 0.7;
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> 59da683011c6619432e4b547d8aa64f932b1b8d7
+            }
+          .p{
+            color:white;
+          } 
+           .p:hover{
+            color:white;
+          } 
+          .active {
+          background-color: white;
+          color: white;
+        }
